@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rudra
-- 👀 I’m interested in web development , ethical hacking and gaming
+- 👀 I’m interested in web development
 - 🌱 I’m currently studying CSE@DBCE24
 
 - 📫 Reach me on Linkedin https://www.linkedin.com/in/rudra-kande-1b7562206
