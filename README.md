@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rudra
-- 👀 I’m interested in development and gaming
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on https://instagram.com/rudra_k30?utm_medium=copy_link
+- 👀 I’m interested in web development , ethical hacking and gaming
+- 🌱 I’m currently studying CSE@DBCE24
+
+- 📫 Reach me on Linkedin https://www.linkedin.com/in/rudra-kande-1b7562206
 
 <!---
 RudraK30/RudraK30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
